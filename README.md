@@ -1,6 +1,4 @@
-# react-demos
-Some demos when i learn react and redux
-First commmit 
+# 自己学习react的一些demo代码
 
-### First commmit to test pr
-1. change something
+### 第一demo是基于redux的一个简单的计数器
+1. 实现了redux最基本的思想
