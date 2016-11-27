@@ -12,7 +12,7 @@ module.exports = {
     entry: [
         'webpack/hot/dev-server',
         'webpack-dev-server/client?http://localhost:' + port,
-        './src/pages/hello-world/index.jsx'
+        './src/pages/count-react-redux/index.jsx'
     ],
     //入口文件输出配置
     output: {
